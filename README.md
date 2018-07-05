@@ -1,3 +1,3 @@
-## My Product Landing Project
+# My Product Landing Project
 
-# This is my product landing page for the free code camp project.
+## This is my product landing page for the free code camp project.
